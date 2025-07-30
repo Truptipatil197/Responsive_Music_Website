@@ -22,7 +22,7 @@ A clean and consistent desktop version is also included for wider displays.
 
 ---
 
-## 📌 Notes
+## Notes
 
 SoftBeats was designed as part of a responsive design task to learn:
 - **Mobile-first development**
